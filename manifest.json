@@ -1,0 +1,16 @@
+{
+  "name": "Mini Clash Game",
+  "short_name": "MiniClash",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#a3d977",
+  "theme_color": "#a3d977",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
